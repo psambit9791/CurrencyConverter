@@ -1,6 +1,5 @@
 import EStyleSheet from 'react-native-extended-stylesheet';
 import { StyleSheet } from 'react-native';
-import InputWithButton from './InputWithButton';
 
 const inputHeight = 48;
 const borderRadius = 4;
